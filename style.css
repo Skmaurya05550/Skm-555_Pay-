@@ -1,1 +1,112 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
 
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header img {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.header .user-info {
+    display: flex;
+    align-items: center;
+}
+
+.header .notification {
+    font-size: 24px;
+}
+
+.hero {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.hero img {
+    width: 50px;
+    margin-bottom: 10px;
+}
+
+.pay-now, .balance, .recharge, .services {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.pay-now .option, .recharge .option, .services .option {
+    text-align: center;
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    background: #007bff;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.map-container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.map-container iframe {
+    width: 100%;
+    height: 400px;
+    border: 0;
+}
