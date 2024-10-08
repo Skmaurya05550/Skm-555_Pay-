@@ -1,11 +1,11 @@
-# Skm@555_Pay 
-## Demo 
+# Skm@555_Pay ✨
+## Demo 🔎
  (https://ibb.co/cwZRGmh)
 
-## Overview
+## Overview 📝
 Skm@555pay is a user-friendly UPI-based payment web application that provides a simple and efficient way to manage payments, recharge, and balance. Users can send money, manage their credit cards, view their UPI Lite balance, and pay utility bills.
 
-## Features
+## Features 🚦
 - **Send to Mobile / UPI**
 - **Send to Bank**
 - **Approve Payments**
@@ -15,8 +15,8 @@ Skm@555pay is a user-friendly UPI-based payment web application that provides a 
 - **Interactive Google Map Embed**
 - **Additional Services (Mandate, Tap, Scan, Voice, Gift)**
 
-## Technologies Used
+## Technologies 💻 Used
 - **HTML5**: For structuring the content.
 - **CSS3**: For designing and styling the user interface.
 - **JavaScript**: For enabling user interaction (UPI Lite & Credit Card).
-- **Google Maps Embed API**: For
+- **Google Maps 🌍 Embed API**: Map 
